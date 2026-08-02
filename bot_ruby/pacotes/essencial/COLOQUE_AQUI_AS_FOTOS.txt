@@ -1,0 +1,6 @@
+COLOQUE AQUI AS FOTOS DO PACOTE ESSENCIAL
+Exemplo:
+- foto_01.jpg
+- foto_02.jpg
+...
+- foto_10.jpg

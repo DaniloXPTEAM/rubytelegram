@@ -1,0 +1,45 @@
+{
+  "telegram_token": "8856076034:AAGpA_uMNAW0Fsav9_6WIwkG6XGegi7Fvok",
+  "admin_id": 123456789,
+  "audio_map": {
+    "oi": "audios/oi meu amor, claro que sou real, to cansada dessa pergunta.ogg",
+    "ola": "audios/oi meu amor, claro que sou real, to cansada dessa pergunta.ogg",
+    "bom dia": "audios/oi meu anjo ja salva o meu numero.ogg",
+    "preco": "audios/valor chamada de video 79,90.ogg",
+    "preço": "audios/valor chamada de video 79,90.ogg",
+    "pacote": "audios/escolha um dos meus pack que eu faço um desconto.ogg",
+    "comprar": "audios/vc tem interesse em comprar um dos meus pacotes.ogg",
+    "cliente": "audios/então bb eu so dou atenção para quem é meu cliente.ogg",
+    "fotos": "audios/sou modelo fotografica e vendo conteudo adulto.ogg",
+    "video": "audios/to deitada na minha cama, vou te mandar um video.ogg",
+    "onde": "audios/moro em barueri SP.ogg",
+    "real": "audios/oi meu amor, claro que sou real, to cansada dessa pergunta.ogg",
+    "desconto": "audios/escolha um dos meus pack que eu faço um desconto.ogg",
+    "programa": "audios/então bb eu nao faço programa.ogg"
+  },
+  "pacotes": {
+    "essencial": {
+      "nome": "🔥 Ensaio Essencial",
+      "preco": 49.9,
+      "descricao": "10 fotos sensuais exclusivas",
+      "pix_key": "exemplo-chave-pix-essencial@pix.com",
+      "diretorio": "pacotes/essencial/"
+    },
+    "vip": {
+      "nome": "💎 Pacote VIP Completo",
+      "preco": 99.9,
+      "descricao": "30 fotos + 2 vídeos exclusivos + áudio especial",
+      "pix_key": "exemplo-chave-pix-vip@pix.com",
+      "diretorio": "pacotes/vip/"
+    }
+  },
+  "respostas_texto": {
+    "oi": "Oi, amor... 😈 Que bom te ver por aqui. Quer meus pacotes?",
+    "preco": "Meus pacotes estão atualizados, gata! 💋",
+    "preço": "Meus pacotes estão atualizados, gata! 💋",
+    "pacote": "Temos o Essencial e o VIP. Qual você quer?",
+    "comprar": "Para comprar, use /comprar <pacote>. Tenho Essencial e VIP!",
+    "fotos": "Minhas fotos estão nos pacotes Essencial ou VIP. Qual você quer?",
+    "videos": "Os vídeos estão no Pacote VIP! Quer ver? 💋"
+  }
+}
