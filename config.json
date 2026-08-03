@@ -1,0 +1,42 @@
+{
+  "telegram_token": "8856076034:AAGpA_uMNAW0Fsav9_6WIwkG6XGegi7Fvok",
+  "admin_id": 123456789,
+  "audio_map": {
+    "oi": "audios/oi.mp3",
+    "ola": "audios/oi.mp3",
+    "bom dia": "audios/bom_dia.mp3",
+    "preco": "audios/preco.mp3",
+    "preço": "audios/preco.mp3",
+    "pacote": "audios/pacote.mp3",
+    "comprar": "audios/comprar.mp3",
+    "fotos": "audios/fotos.mp3",
+    "videos": "audios/videos.mp3",
+    "vip": "audios/vip.mp3",
+    "pix": "audios/pix.mp3"
+  },
+  "pacotes": {
+    "essencial": {
+      "nome": "Ensaio Essencial",
+      "preco": 49.9,
+      "descricao": "10 fotos sensuais exclusivas",
+      "pix_key": "exemplo-chave-pix-essencial@pix.com",
+      "diretorio": "pacotes/essencial/"
+    },
+    "vip": {
+      "nome": "Pacote VIP Completo",
+      "preco": 99.9,
+      "descricao": "30 fotos + 2 videos exclusivos + audio especial",
+      "pix_key": "exemplo-chave-pix-vip@pix.com",
+      "diretorio": "pacotes/vip/"
+    }
+  },
+  "respostas_texto": {
+    "oi": "Oi, amor... Que bom te ver por aqui. Quer meus pacotes?",
+    "preco": "Meus pacotes estao atualizados, gata!",
+    "preço": "Meus pacotes estao atualizados, gata!",
+    "pacote": "Temos o Essencial e o VIP. Qual voce quer?",
+    "comprar": "Para comprar, use /comprar <pacote>. Tenho Essencial e VIP!",
+    "fotos": "Minhas fotos estao nos pacotes Essencial ou VIP. Qual voce quer?",
+    "videos": "Os videos estao no Pacote VIP! Quer ver?"
+  }
+}
