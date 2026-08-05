@@ -1,6 +1,0 @@
-COLOQUE AQUI AS FOTOS E VÍDEOS DO PACOTE VIP
-Exemplo:
-- foto_01.jpg ... foto_30.jpg
-- video_01.mp4
-- video_02.mp4
-- audio_especial.mp3
